@@ -1,0 +1,19 @@
+# Hodahel Moinzadeh
+
+> Hodahel Moinzadeh ("Hody") is an AI Systems Engineer based in Baltimore, Maryland,
+> specializing in infrastructure automation, identity and access management, and AI
+> integration. This is his professional portfolio and resume site.
+
+## Key facts
+- Name: Hodahel Moinzadeh (goes by "Hody")
+- Role: AI Systems Engineer
+- Location: Baltimore, Maryland, USA
+- Focus: infrastructure automation, identity & access (Microsoft 365, Entra ID),
+  AI integration, PowerShell, Microsoft Graph API, DevOps, self-hosting.
+- Website / resume: https://hodahelmoinzadeh.com
+- LinkedIn: https://linkedin.com/in/hodahel-moinzadeh
+- GitHub: https://github.com/hodyhq
+- Consulting practice: https://hody.dev (HODY)
+
+## Sections on the site
+Experience, Projects, Tech Stack, Certifications, Education, Contact.
